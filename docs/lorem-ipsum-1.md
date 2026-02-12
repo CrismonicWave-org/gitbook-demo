@@ -27,7 +27,7 @@ that consists of:​
 
 The diagram below represents the current state architecture:
 
-![Current state architecture diagram of the solution](./assets/image1.PNG)
+![Current state architecture diagram of the solution](./assets/image1.png)
 
 /// caption
 Figure 1- Current state architecture diagram of the solution.
